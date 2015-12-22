@@ -15,7 +15,7 @@
     <?php 
 header("content-type:text/html;charset=utf-8");
 include_once  "./weather.class.php";
- $text =$_REQUEST['txt'];
+ $text =$_REQUEST['location_c'];
 echo '<div class="waterbox">';
 echo '<div class="citybox">';
  echo '<p class="city">你查询的城市是:<span>&nbsp;&nbsp;'.$text.'</span></p>';

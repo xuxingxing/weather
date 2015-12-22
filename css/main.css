@@ -4,7 +4,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,code,em,img,small,strong,sub,sup,u,
 a{color:#007bc4/*#424242*/; text-decoration:none;}
 a:hover{text-decoration:underline}
 ol,ul{list-style:none}
-option:hover{cursor: pointer;}
 table{border-collapse:collapse;border-spacing:0}
 body{height:100%; font:12px/18px "Microsoft Yahei", Tahoma, Helvetica, Arial, Verdana, "\5b8b\4f53", sans-serif; color:#51555C; background:#FFFFFF;}
 img{border:none}
